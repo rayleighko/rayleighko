@@ -1,4 +1,4 @@
-![Waving Profile](https://capsule-render.vercel.app/api?type=waving&height=200&text=Ray!&fontAlign=80&fontAlignY=40&color=gradient)
+![Waving Profile](https://capsule-render.vercel.app/api?type=waving&height=220&text=敏而好學,%20不恥下問&fontAlign=65&fontAlignY=40&color=e84545&fontColor=ffffff)
   
 ## Skills
   [![typescript Badge](https://img.shields.io/badge/Typescript-235A97?style=flat-square&logo=Typescript&logoColor=white)](https://www.typescriptlang.org/)
