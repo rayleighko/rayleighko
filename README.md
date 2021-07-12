@@ -1,12 +1,45 @@
-![Waving Profile](https://capsule-render.vercel.app/api?type=waving&height=220&text=敏而好學,%20不恥下問&fontAlign=65&fontAlignY=40&color=e84545&fontColor=ffffff)
-  
-## Skills
-  [![typescript Badge](https://img.shields.io/badge/Typescript-235A97?style=flat-square&logo=Typescript&logoColor=white)](https://www.typescriptlang.org/)
-  [![AWS Badge](https://img.shields.io/badge/Aws-0095D5?style=flat-square&logo=Aws&logoColor=white)](https://aws.amazon.com/)
+<h2>안녕하세요 🙏🏻, I'm Ray in South Korea! <img src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" width="50"></h2>
+<img align='right' src="https://avatars.githubusercontent.com/u/24822072?v=4" width="230">
+<p><em>Engineer at <a href="https://github.com/perpick">Perpick</a><img src="https://media.giphy.com/media/11dR2hEgtN5KoM/giphy.gif" width="30"> 
+</em></p>
 
-## Formal Resume
-[![Notion Profile Badge](https://img.shields.io/badge/-notion-black?style=flat-square&logo=notion&logoColor=white&link=https://www.notion.so/thescentlab/d8db4670a7ee48559cb3d2633f6b7bc5)](https://www.notion.so/thescentlab/d8db4670a7ee48559cb3d2633f6b7bc5)
+[![Linkedin: RayKo](https://img.shields.io/badge/-RayKo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rayle/)](https://www.linkedin.com/in/rayle/)
+![GitHub followers](https://img.shields.io/github/followers/rayleighko?label=Follow&style=social)
+![](https://visitor-badge.glitch.me/badge?page_id=rayleighko)
+![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
 
-## Contact
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cto@scentlab.kr)](mailto:gmj1197@scentlab.kr)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rayle/)](https://www.linkedin.com/in/rayle/)
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```typescript
+interface Ray {
+    name: "명진" | "MyeongJin" | "Ray",
+    code: ["Typescript", "Python"],
+    askMeAbout: ["tech", "web dev", "app dev", "game"],
+    technologies: {
+        frontEnd: {
+            ts: ["React", "NextJS", "Redux", "Recoil"],
+        },
+        backEnd: {
+            ts: ["Node", "Express", "NestJS"],
+        },
+        mobileApp: {
+            ts: ["React-Native"]
+        },
+        AI/BI: {
+            python: ["ML", "Data Analysis"]
+        },
+        devOps: ["AWS", "Docker🐳", "Route53", "Nginx", "Github-Action", "DataDog"],
+        databases: ["MySql", "mongoDB", "dynamoDB"],
+        misc(interesting): ["TDD", "OOP", "FP", "Rx", "Go", "Rust"]
+    },
+    currentFocus: "Full Cycle App Development - from design to operation"
+};
+```
+[![Instagram Follow](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rayleigh_ko/)
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love communicating with different people</b> so if you want to with me. say <b>Hi! How is your bug status today?</b> 👾</em>
+
+---
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
