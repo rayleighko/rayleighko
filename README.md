@@ -12,6 +12,7 @@
 
 ```typescript
 interface Ray {
+    key: "cat-lover",
     name: "명진" | "MyeongJin" | "Ray",
     code: ["Typescript", "Python"],
     askMeAbout: ["tech", "web dev", "app dev", "game"],
@@ -23,21 +24,21 @@ interface Ray {
             ts: ["Node", "Express", "NestJS"],
         },
         mobileApp: {
-            ts: ["React-Native"]
+            ts: ["React-Native"],
         },
         AI/BI: {
-            python: ["ML", "Data Analysis"]
+            python: ["ML", "Data Analysis"],
         },
         devOps: ["AWS", "Docker🐳", "Route53", "Nginx", "Github-Action", "DataDog"],
         databases: ["MySql", "mongoDB", "dynamoDB"],
-        misc(interesting): ["TDD", "OOP", "FP", "Rx", "Go", "Rust"]
+        misc(interesting): ["TDD", "OOP", "FP", "Rx", "Go", "Rust"],
     },
-    currentFocus: "Full Cycle App Development - from design to operation"
+    currentFocus: "Full Cycle App Development - from design to operation",
 };
 ```
 [![Instagram Follow](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rayleigh_ko/)
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love communicating with different people</b> so if you want to with me. say <b>Hi! How is your bug status today?</b> 👾</em>
+<img src="https://media.giphy.com/media/12m6M9cySmlph6/giphy.gif" width="60"> <em><b>I love communicating with different people</b> so if you want to with me. say <b>Hi! How is your bug status today?</b> 👾</em>
 
 ---
 
