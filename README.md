@@ -42,15 +42,30 @@ interface Ray {
 
 ## 🔧 Technologies & Tools
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-React_Native-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007ACC)
+![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=gnu-bash&logoColor=white&color=4EAA25)
+  
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=FCC624)
+![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=macos&logoColor=white&color=000000)
+  
+![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=3178C6)
+  
+![](https://img.shields.io/badge/Lib-React-informational?style=flat&logo=react&logoColor=white&color=61DAFB)
+![](https://img.shields.io/badge/FW-NextJS-informational?style=flat&logo=next.js&logoColor=white&color=000000)
+  
+![](https://img.shields.io/badge/FW-React_Native-informational?style=flat&logo=react&logoColor=white&color=61DAFB)
+  
+![](https://img.shields.io/badge/Lib-Node-informational?style=flat&logo=node.js&logoColor=white&color=339933)
+![](https://img.shields.io/badge/FW-NestJS-informational?style=flat&logo=nestjs&logoColor=white&color=E0234E)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
+  
+![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=4479A1)
+![](https://img.shields.io/badge/Tools-DynamoDB-informational?style=flat&logo=amazon-dynamodb&logoColor=white&color=4053D6)
+![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=47A248)
+  
+![](https://img.shields.io/badge/Tools-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=232F3E)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED)
+![](https://img.shields.io/badge/Tools-Serverless-informational?style=flat&logo=serverless&logoColor=white&color=FD5750)
 
 ## 🏆 GitHub Trophies
 
