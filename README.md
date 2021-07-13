@@ -49,6 +49,7 @@ interface Ray {
 ![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=macos&logoColor=white&color=000000)
   
 ![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=3178C6)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
   
 ![](https://img.shields.io/badge/Lib-React-informational?style=flat&logo=react&logoColor=white&color=61DAFB)
 ![](https://img.shields.io/badge/FW-NextJS-informational?style=flat&logo=next.js&logoColor=white&color=000000)
@@ -57,7 +58,6 @@ interface Ray {
   
 ![](https://img.shields.io/badge/Lib-Node-informational?style=flat&logo=node.js&logoColor=white&color=339933)
 ![](https://img.shields.io/badge/FW-NestJS-informational?style=flat&logo=nestjs&logoColor=white&color=E0234E)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
   
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=4479A1)
 ![](https://img.shields.io/badge/Tools-DynamoDB-informational?style=flat&logo=amazon-dynamodb&logoColor=white&color=4053D6)
