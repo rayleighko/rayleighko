@@ -1,4 +1,4 @@
-<h2>안녕하세요 🙏🏻, I'm Ray in South Korea! <img src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" width="50"></h2>
+<h2>안녕하세요 👋, I'm Ray in South Korea! <img src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/VOPK1BqsMEJRS/giphy.gif" width="230">
 <p><em>Engineer at <a href="https://github.com/perpick">Perpick</a><img src="https://media.giphy.com/media/11dR2hEgtN5KoM/giphy.gif" width="30"> 
 </em></p>
@@ -15,7 +15,7 @@ interface Ray {
     key: "cat-lover",
     name: "명진" | "MyeongJin" | "Ray",
     code: ["Typescript", "Python"],
-    askMeAbout: ["tech", "web dev", "app dev", "game"],
+    askMeAbout: ["tech", "web dev", "app dev", "all kinds of games"],
     technologies: {
         frontEnd: {
             ts: ["React", "NextJS", "Redux", "Recoil"],
