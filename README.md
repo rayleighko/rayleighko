@@ -18,20 +18,20 @@ interface Ray {
     askMeAbout: ["tech", "web dev", "app dev", "all kinds of games"],
     technologies: {
         frontEnd: {
-            ts: ["React", "NextJS", "Redux", "Recoil"],
+            typescript: ["React", "NextJS", "Redux", "Recoil"],
         },
         backEnd: {
-            ts: ["Node", "Express", "NestJS"],
+            typescript: ["Node", "Express", "NestJS"],
         },
         mobileApp: {
-            ts: ["React-Native"],
+            typescript: ["React-Native"],
         },
         AI/BI: {
             python: ["ML", "Data Analysis"],
         },
         devOps: ["AWS", "Docker🐳", "Route53", "Nginx", "Github-Action", "DataDog"],
-        databases: ["MySql", "mongoDB", "dynamoDB"],
-        misc(interesting): ["TDD", "OOP", "FP", "Rx", "Go", "Rust"],
+        databases: ["MySql", "MongoDB", "DynamoDB"],
+        misc(interesting): ["TDD", "OOP", "FP", "Rx", "Go", "Rust", "Deno"],
     },
     currentFocus: "Full Cycle App Development - from design to operation",
 };
@@ -50,22 +50,21 @@ interface Ray {
   
 ![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=3178C6)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
-  
+
+![](https://img.shields.io/badge/RunTime-Node-informational?style=flat&logo=node.js&logoColor=white&color=339933)
+
 ![](https://img.shields.io/badge/Lib-React-informational?style=flat&logo=react&logoColor=white&color=61DAFB)
-![](https://img.shields.io/badge/FW-NextJS-informational?style=flat&logo=next.js&logoColor=white&color=000000)
-  
 ![](https://img.shields.io/badge/FW-React_Native-informational?style=flat&logo=react&logoColor=white&color=61DAFB)
-  
-![](https://img.shields.io/badge/Lib-Node-informational?style=flat&logo=node.js&logoColor=white&color=339933)
+![](https://img.shields.io/badge/FW-NextJS-informational?style=flat&logo=next.js&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/FW-NestJS-informational?style=flat&logo=nestjs&logoColor=white&color=E0234E)
   
-![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=4479A1)
-![](https://img.shields.io/badge/Tools-DynamoDB-informational?style=flat&logo=amazon-dynamodb&logoColor=white&color=4053D6)
-![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=47A248)
+![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=4479A1)
+![](https://img.shields.io/badge/DB-DynamoDB-informational?style=flat&logo=amazon-dynamodb&logoColor=white&color=4053D6)
+![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=47A248)
   
-![](https://img.shields.io/badge/Tools-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=232F3E)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED)
-![](https://img.shields.io/badge/Tools-Serverless-informational?style=flat&logo=serverless&logoColor=white&color=FD5750)
+![](https://img.shields.io/badge/Infra-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=232F3E)
+![](https://img.shields.io/badge/Infra-Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED)
+![](https://img.shields.io/badge/Infra-Serverless-informational?style=flat&logo=serverless&logoColor=white&color=FD5750)
 
 ## 🏆 GitHub Trophies
 
