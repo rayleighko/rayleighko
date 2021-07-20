@@ -29,7 +29,7 @@ interface Ray {
         AI/BI: {
             python: ["ML", "Data Analysis"],
         },
-        devOps: ["AWS", "Docker🐳", "Nginx", "Github-Action", "DataDog"],
+        devOps: ["AWS", "Docker🐳", "Serverless", "Nginx", "Github-Action", "DataDog"],
         databases: ["MySql", "MongoDB", "DynamoDB"],
         misc(interesting): ["TDD", "OOP", "FP", "Rx", "Go", "Rust", "Deno"],
     },
