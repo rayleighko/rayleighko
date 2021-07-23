@@ -75,15 +75,15 @@ interface Ray {
 ---
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-96-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-98-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.1%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 1,080 Contributions in the Year 2021
+> 🏆 1,084 Contributions in the Year 2021
  > 
-> 📦 48.4 kB Used in Github's Storage 
+> 📦 48.5 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -94,8 +94,8 @@ interface Ray {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    70 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.41% 
-🌆 Daytime    333 commits    ███████████░░░░░░░░░░░░░░   44.76% 
+🌞 Morning    68 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.14% 
+🌆 Daytime    335 commits    ███████████░░░░░░░░░░░░░░   45.03% 
 🌃 Evening    294 commits    ██████████░░░░░░░░░░░░░░░   39.52% 
 🌙 Night      47 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.32%
 
@@ -105,8 +105,8 @@ interface Ray {
 ```text
 Monday       163 commits    █████░░░░░░░░░░░░░░░░░░░░   21.91% 
 Tuesday      157 commits    █████░░░░░░░░░░░░░░░░░░░░   21.1% 
-Wednesday    125 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.8% 
-Thursday     106 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.25% 
+Wednesday    124 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+Thursday     107 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.38% 
 Friday       111 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.92% 
 Saturday     32 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.3% 
 Sunday       50 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.72%
@@ -151,5 +151,5 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/rayleighko/rayleighko/main/charts/bar_graph.png) 
 
 
- Last Updated on 22/07/2021
+ Last Updated on 23/07/2021
 <!--END_SECTION:waka-->
