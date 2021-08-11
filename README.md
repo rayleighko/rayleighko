@@ -37,6 +37,20 @@ interface Ray {
 };
 ```
 [![Instagram Follow](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rayleigh_ko/)
+<!-- low score now -->
+<!-- 
+## Coding Challenges
+
+### LeetCode
+
+[![LeetCode ranking](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Frayleighko&logo=leetcode&logoColor=yellow)](https://leetcode.com/rayleighko/)
+[![LeetCode solvedOverTotal](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Frayleighko&logo=leetcode&logoColor=yellow)](https://leetcode.com/rayleighko/)
+
+### BOJ
+
+[![solved.ac
+profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rayleighko)](https://solved.ac/rayleighko) 
+-->
 
 ## 📝 [Blogs](https://k-dev.medium.com/)
 
