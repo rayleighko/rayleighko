@@ -134,13 +134,17 @@ Sunday       49 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Bash                     52 mins             ██████████████░░░░░░░░░░░   58.94% 
+JSON                     12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.26% 
+YAML                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   9.21% 
+Markdown                 6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   7.53% 
+JavaScript               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.82%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 29 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 29 mins        █████████████████████████   100.0%
 
 ```
 
@@ -161,5 +165,5 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/rayleighko/rayleighko/main/charts/bar_graph.png) 
 
 
- Last Updated on 23/08/2021
+ Last Updated on 24/08/2021
 <!--END_SECTION:waka-->
