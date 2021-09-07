@@ -97,7 +97,7 @@ profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rayleighko)](https://
 
 > 🏆 1,100 Contributions in the Year 2021
  > 
-> 📦 40.4 kB Used in Github's Storage 
+> 📦 40.5 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -134,15 +134,13 @@ Sunday       49 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               13 mins             █████████████████████░░░░   84.94% 
-JSON                     2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   14.98% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  16 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      16 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -163,5 +161,5 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/rayleighko/rayleighko/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/09/2021
+ Last Updated on 07/09/2021
 <!--END_SECTION:waka-->
