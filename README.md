@@ -89,7 +89,7 @@ profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rayleighko)](https://
 ---
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.1%20million%20lines%20of%20code-blue)
 
@@ -134,13 +134,17 @@ Sunday       49 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 14 mins             █████████░░░░░░░░░░░░░░░░   37.67% 
+Bash                     14 mins             █████████░░░░░░░░░░░░░░░░   36.52% 
+Terraform                6 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.59% 
+JSON                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   8.98% 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.24%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  39 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      39 mins             █████████████████████████   100.0%
 
 ```
 
@@ -161,5 +165,5 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/rayleighko/rayleighko/main/charts/bar_graph.png) 
 
 
- Last Updated on 07/09/2021
+ Last Updated on 08/09/2021
 <!--END_SECTION:waka-->
