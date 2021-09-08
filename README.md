@@ -1,6 +1,6 @@
 <h2>안녕하세요 👋, I'm Ray in South Korea! <img src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/VOPK1BqsMEJRS/giphy.gif" width="230">
-<p><em>Engineer at <a href="https://github.com/perpick">Perpick</a><img src="https://media.giphy.com/media/11dR2hEgtN5KoM/giphy.gif" width="30"> 
+<p><em>Service Engineer at <a href="https://github.com/plan-cy">Plan-cy</a><img src="https://media.giphy.com/media/11dR2hEgtN5KoM/giphy.gif" width="30"> 
 </em></p>
 
 [![Linkedin: RayKo](https://img.shields.io/badge/-RayKo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rayle/)](https://www.linkedin.com/in/rayle/)
@@ -15,7 +15,7 @@ interface Ray {
     key: "cat-lover",
     name: "명진" | "MyeongJin" | "Ray",
     code: ["Typescript", "Python"],
-    askMeAbout: ["tech", "web dev", "app dev", "all kinds of games"],
+    askMeAbout: ["all kind of IT", "music is my life"],
     technologies: {
         frontEnd: {
             typescript: ["React", "NextJS", "Redux", "Recoil"],
@@ -29,7 +29,7 @@ interface Ray {
         AI/BI: {
             python: ["ML", "Data Analysis"],
         },
-        devOps: ["AWS", "Docker🐳", "Serverless", "Nginx", "Github-Action", "DataDog"],
+        devOps: ["AWS", "Docker🐳", "Serverless", "Nginx", "Github-Action", "DataDog", "Terraform"],
         databases: ["MySql", "MongoDB", "DynamoDB"],
         misc(interesting): ["TDD", "OOP", "FP", "Rx", "Go", "Rust", "Deno"],
     },
