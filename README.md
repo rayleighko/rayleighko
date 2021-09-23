@@ -89,15 +89,15 @@ profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rayleighko)](https://
 ---
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.1%20million%20lines%20of%20code-blue)
 
-**🐱 My Github Data** 
+**🐱 My GitHub Data** 
 
 > 🏆 1,106 Contributions in the Year 2021
  > 
-> 📦 40.5 kB Used in Github's Storage 
+> 📦 40.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -134,17 +134,15 @@ Sunday       49 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 1 hr 40 mins        █████████████████████░░░░   84.47% 
-XML                      16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.49% 
-Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.3% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.58% 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.16%
+XML                      16 mins             ████████████████████████░   95.91% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.95% 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.14%
 
 🔥 Editors: 
-VS Code                  1 hr 59 mins        █████████████████████████   100.0%
+VS Code                  16 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      1 hr 59 mins        █████████████████████████   100.0%
+Mac                      16 mins             █████████████████████████   100.0%
 
 ```
 
@@ -165,5 +163,5 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/rayleighko/rayleighko/main/charts/bar_graph.png) 
 
 
- Last Updated on 20/09/2021
+ Last Updated on 23/09/2021
 <!--END_SECTION:waka-->
