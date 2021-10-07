@@ -134,13 +134,13 @@ Sunday       48 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               1 hr 54 mins        █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 54 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 54 mins        █████████████████████████   100.0%
 
 ```
 
@@ -161,5 +161,5 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/rayleighko/rayleighko/main/charts/bar_graph.png) 
 
 
- Last Updated on 06/10/2021
+ Last Updated on 07/10/2021
 <!--END_SECTION:waka-->
