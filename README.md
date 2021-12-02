@@ -15,25 +15,23 @@ interface Ray {
     key: "cat-lover",
     name: "명진" | "MyeongJin" | "Ray",
     code: ["Typescript", "Python"],
-    askMeAbout: ["all kind of IT", "music is my life"],
+    askMeAbout: ["love the peace", "love the earth", "love the tech", "love over money"],
     technologies: {
-        frontEnd: {
+        frontEnd(4years): {
             typescript: ["React", "NextJS", "Redux", "Recoil"],
         },
-        backEnd: {
+        backEnd(3years): {
             typescript: ["Node", "Express", "NestJS"],
         },
-        mobileApp: {
-            typescript: ["React-Native"],
+        mobile: {
+            typescript: ["React Native"],
         },
-        AI/BI: {
-            python: ["ML", "Data Analysis"],
-        },
-        devOps: ["AWS", "Docker🐳", "Serverless", "Nginx", "Github-Action", "DataDog", "Terraform"],
-        databases: ["MySql", "MongoDB", "DynamoDB"],
+        devOps: ["Github-Action", "Terraform"],
+        databases: ["MySQL", "MongoDB", "PostgreSQL", "DynamoDB"],
+        etc: ["NX", "GQL", "Auth0", "Twilio", "CloudFlare", "AWS"],
         misc(interesting): ["TDD", "OOP", "FP", "Rx", "Go", "Rust", "Deno"],
     },
-    currentFocus: "Full Cycle App Development - from design to operation",
+    currentFocus: "full stack development for early startups with limited resources.",
 };
 ```
 [![Instagram Follow](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rayleigh_ko/)
