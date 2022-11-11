@@ -1,7 +1,7 @@
 <h2>안녕하세요 👋, I'm Ray in South Korea! <img src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" width="50"></h2>
 
 <img align='right' src="https://media.giphy.com/media/VOPK1BqsMEJRS/giphy.gif" height="160">
-<p><em>Service Engineer at <a href="https://github.com/plan-cy">Plan-cy</a><img src="https://media.giphy.com/media/11dR2hEgtN5KoM/giphy.gif" width="30"> 
+<p><em>Service Engineer at <a href="[https://github.com/plan-cy](https://goo.gl/maps/tymCqPy1xovhffHw9)">My House</a><img src="https://media.giphy.com/media/11dR2hEgtN5KoM/giphy.gif" width="30"> 
 </em></p>
 
 [![Linkedin: RayKo](https://img.shields.io/badge/-RayKo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rayle/)](https://www.linkedin.com/in/rayleigh1/)
