@@ -14,6 +14,7 @@
 interface Ray {
     key: "cat-lover",
     name: "명진" | "MJ" | "Ray",
+    current_focus: "How to live freely in the world",
     code: ["Typescript", "Python", "Rust"],
     technologies: {
         front_end(2019 ~): {
@@ -22,15 +23,13 @@ interface Ray {
         back_end(2020 ~): {
             typescript: ["NestJS"],
         },
-        mobile: {
+        mobile_native(2021 ~): {
             typescript: ["React Native"],
         },
-        infrastructure: ["Github-Action", "Terraform", "AWS", "CloudFlare", "Serverless"],
-        databases: ["MySQL", "MongoDB", "PostgreSQL", "DynamoDB"],
-        etc: ["NX", "GQL", "Auth0", "Twilio"],
-        misc(interesting): ["TDD", "OOP", "FP", "Rx", "Rust(blockchain)", "Deno"],
+        infrastructure(2020 ~): ["Github-Action", "Terraform", "AWS", "CloudFlare", "Serverless"],
+        databases(2020 ~): ["MySQL", "MongoDB", "PostgreSQL", "DynamoDB"],
+        misc(interesting): ["TDD", "OOP", "FP", "Rx", "Rust(blockchain)", "Deno", "NX", "GQL"],
     },
-    currentFocus: "programming is a hobby",
 };
 
 ```
