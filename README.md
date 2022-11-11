@@ -4,9 +4,9 @@
 <p><em>Service Engineer at <a href="https://github.com/plan-cy">Plan-cy</a><img src="https://media.giphy.com/media/11dR2hEgtN5KoM/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: RayKo](https://img.shields.io/badge/-RayKo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rayle/)](https://www.linkedin.com/in/rayle/)
+[![Linkedin: RayKo](https://img.shields.io/badge/-RayKo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rayle/)](https://www.linkedin.com/in/rayleigh1/)
 ![GitHub followers](https://img.shields.io/github/followers/rayleighko?label=Follow&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=rayleighko)
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=rayleighko)
 ![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
@@ -14,28 +14,29 @@
 ```typescript
 interface Ray {
     key: "cat-lover",
-    name: "명진" | "MyeongJin" | "Ray",
-    code: ["Typescript", "Python"],
-    askMeAbout: ["love the peace", "love the earth", "love the tech", "love over money"],
+    name: "명진" | "MJ" | "Ray",
+    code: ["Typescript", "Python", "Rust"],
     technologies: {
-        frontEnd(4years): {
-            typescript: ["React", "NextJS", "Redux", "Recoil"],
+        front_end(2019 ~): {
+            typescript: ["React", "NextJS", "Emotion", "TW"],
         },
-        backEnd(3years): {
-            typescript: ["Node", "Express", "NestJS"],
+        back_end(2020 ~): {
+            typescript: ["NestJS"],
         },
         mobile: {
             typescript: ["React Native"],
         },
-        devOps: ["Github-Action", "Terraform"],
+        infrastructure: ["Github-Action", "Terraform", "AWS", "CloudFlare", "Serverless"],
         databases: ["MySQL", "MongoDB", "PostgreSQL", "DynamoDB"],
-        etc: ["NX", "GQL", "Auth0", "Twilio", "CloudFlare", "AWS"],
-        misc(interesting): ["TDD", "OOP", "FP", "Rx", "Go", "Rust", "Deno"],
+        etc: ["NX", "GQL", "Auth0", "Twilio"],
+        misc(interesting): ["TDD", "OOP", "FP", "Rx", "Rust(blockchain)", "Deno"],
     },
-    currentFocus: "full stack development for early startups with limited resources.",
+    currentFocus: "programming is a hobby",
 };
+
 ```
 [![Instagram Follow](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rayleigh_ko/)
+
 <!-- low score now -->
 <!-- 
 ## Coding Challenges
@@ -51,7 +52,7 @@ interface Ray {
 profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rayleighko)](https://solved.ac/rayleighko) 
 -->
 
-## 📝 [Blogs](https://k-dev.medium.com/)
+<!-- ## 📝 [Blogs](https://k-dev.medium.com/) -->
 
 ## 🔧 Technologies & Tools
 
@@ -83,7 +84,7 @@ profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rayleighko)](https://
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rayleighko&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-<img src="https://media.giphy.com/media/12m6M9cySmlph6/giphy.gif" width="60"> <em><b>I love communicating with different people</b> so if you want to with me. say <b>Hi! How is your bug status today?</b> 👾</em>
+<img src="https://media.giphy.com/media/12m6M9cySmlph6/giphy.gif" width="60"> <em><b>I know money is important in the world,</b> but there are many things more important than money. 👾</em>
 
 ---
 
