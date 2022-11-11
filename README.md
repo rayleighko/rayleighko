@@ -23,7 +23,7 @@ interface Ray {
         back_end(2020 ~): {
             typescript: ["NestJS"],
         },
-        mobile_native(2021 ~): {
+        mobile(2021 ~): {
             typescript: ["React Native"],
         },
         infrastructure(2020 ~): ["Github-Action", "Terraform", "AWS", "CloudFlare", "Serverless"],
