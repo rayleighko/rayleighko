@@ -89,7 +89,7 @@ profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rayleighko)](https://
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 July 2021 - To: 17 November 2022
+From: 11 July 2021 - To: 18 November 2022
 
 Total Time: 590 hrs 13 mins
 
