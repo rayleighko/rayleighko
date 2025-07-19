@@ -88,13 +88,13 @@ profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rayleighko)](https://
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 July 2021 - To: 16 July 2025
+From: 11 July 2021 - To: 17 July 2025
 
-Total Time: 2,063 hrs 24 mins
+Total Time: 2,064 hrs 24 mins
 
-TypeScript                 1,535 hrs 58 mins██████████████████▓░░░░░░   74.44 %
+TypeScript                 1,536 hrs 30 mins██████████████████▓░░░░░░   74.43 %
 JavaScript                 169 hrs 4 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 %
-JSON                       75 hrs 1 min    █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
+JSON                       75 hrs 1 min    █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
 HTML                       72 hrs 39 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
 CSS                        34 hrs 26 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
 ```
