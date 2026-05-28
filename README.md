@@ -1,7 +1,7 @@
 <h2>안녕하세요 👋, I'm Ray in South Korea! <img src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" width="50"></h2>
 
 <img align='right' src="https://media.giphy.com/media/VOPK1BqsMEJRS/giphy.gif" height="160">
-<p><em>Cat Butler on <a href="https://goo.gl/maps/tymCqPy1xovhffHw9">Jeju</a><img src="https://media.giphy.com/media/11dR2hEgtN5KoM/giphy.gif" width="30"></em></p>
+<p><em>Cat Butler on Seoul<img src="https://media.giphy.com/media/11dR2hEgtN5KoM/giphy.gif" width="30"></em></p>
 
 [![Linkedin: RayKo](https://img.shields.io/badge/-RayKo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rayle/)](https://www.linkedin.com/in/rayleigh1/)
 ![GitHub followers](https://img.shields.io/github/followers/rayleighko?label=Follow&style=social)
@@ -14,7 +14,7 @@ interface Ray {
     key: "cat-lover",
     name: "명진" | "MJ" | "Ray",
     current_focus: "How to live freely in the world",
-    code: ["Typescript", "Python", "Rust"],
+    code: ["Typescript"],
     technologies: {
         front_end(2019 ~): {
             typescript: ["React", "NextJS", "Emotion", "TW"],
