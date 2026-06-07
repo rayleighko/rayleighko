@@ -1,4 +1,3 @@
-<!-- rayleighko/rayleighko 레포의 README.md 에 붙여넣기. header.svg 와 이력서 PDF를 같은 레포에 커밋하세요. -->
 
 <p align="center">
   <img src="./header.svg" alt="Ray (MyungJin Ko) — Software Engineer" width="100%">
@@ -14,7 +13,7 @@
 - 🤝 I'm looking to connect with **teams building global, large-scale products**
 - 💬 Ask me about **building & operating full-stack apps, the trade-offs that come after launch, and adapting across stacks (TypeScript, Rust, Java, C#)**
 - 📫 How to reach me **rayleighko2@gmail.com · linkedin.com/in/rayleighko**
-- 📄 Résumé **[English résumé (PDF)](https://github.com/rayleighko/rayleighko/blob/main/Ko_MyungJin_Resume_EN.pdf)**
+- 📄 Résumé **[English résumé (PDF)](https://github.com/rayleighko/rayleighko/raw/main/Ko_MyungJin_Resume_EN.pdf)**
 - ⚡ Fun fact **I built and ran a company for 7 years before returning to engineering — and I'm a devoted cat person 🐈**
 - 📝 I write at **[ray-k.medium.com](https://ray-k.medium.com)**
 
@@ -34,6 +33,7 @@ const ray = {
 <!-- 프로필 'Customize your pins'에서 cohort를 고정하세요 -->
 - 🚧 **[Cohort](https://github.com/rayleighko/cohort)** *(building)* — LLM-assisted investment-learning product; my public portfolio project where I apply what I'm learning.
 - 🌐 **Personal site** — coming soon
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/rayleighko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="rayleighko" height="30" width="40" /></a>
@@ -42,6 +42,7 @@ const ray = {
 <a href="https://leetcode.com/rayleighko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rayleighko" height="30" width="40" /></a>
 <a href="https://instagram.com/r_a_y_l_e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="r_a_y_l_e" height="30" width="40" /></a>
 </p>
+
 <h3 align="left">Tech Stack:</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,rust,postgres,supabase,tailwind,aws,docker,git" alt="tech stack icons" />
