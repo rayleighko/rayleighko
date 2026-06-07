@@ -34,7 +34,6 @@ const ray = {
 <!-- 프로필 'Customize your pins'에서 cohort를 고정하세요 -->
 - 🚧 **[Cohort](https://github.com/rayleighko/cohort)** *(building)* — LLM-assisted investment-learning product; my public portfolio project where I apply what I'm learning.
 - 🌐 **Personal site** — coming soon
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/rayleighko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="rayleighko" height="30" width="40" /></a>
@@ -43,25 +42,10 @@ const ray = {
 <a href="https://leetcode.com/rayleighko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rayleighko" height="30" width="40" /></a>
 <a href="https://instagram.com/r_a_y_l_e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="r_a_y_l_e" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Tech Stack:</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=rust" alt="rust" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,rust,postgres,supabase,tailwind,aws,docker,git" alt="tech stack icons" />
 </p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rayleighko&show_icons=true&hide_border=true&locale=en" alt="rayleighko" height="160" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rayleighko&show_icons=true&hide_border=true&locale=en&layout=compact" alt="rayleighko" height="160" />
+<p align="center">
+  <img src="./tech_card.svg" alt="Tech Stack — Frontend, Backend, Data, Infra" width="100%">
 </p>
