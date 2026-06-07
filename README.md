@@ -13,7 +13,7 @@
 - 🤝 I'm looking to connect with **teams building global, large-scale products**
 - 💬 Ask me about **building & operating full-stack apps, the trade-offs that come after launch, and adapting across stacks (TypeScript, Rust, Java, C#)**
 - 📫 How to reach me **rayleighko2@gmail.com · linkedin.com/in/rayleighko**
-- 📄 Résumé **[English résumé (PDF)](https://github.com/rayleighko/rayleighko/raw/main/KO_MYU~1.PDF)**
+- 📄 Résumé **[English résumé (PDF)](https://github.com/rayleighko/rayleighko/raw/main/resume.PDF)**
 - ⚡ Fun fact **I built and ran a company for 7 years before returning to engineering — and I'm a devoted cat person 🐈**
 - 📝 I write at **[ray-k.medium.com](https://ray-k.medium.com)**
 
