@@ -11,7 +11,7 @@
 - 🌱 I'm currently learning **system design & software architecture for larger-scale services**
 - 🚀 I'm looking to join mission-driven teams or high-growth scale-ups (Series A and beyond) — from world-changing products to deep tech like space and defense
 - 🌍 I'm looking to help build global products at real scale
-- 🛠 At home in TypeScript on the web — and comfortable crossing into mobile or desktop with whatever each platform calls for(I Love the ployglot)
+- 🛠 At home in TypeScript on the web — and comfortable crossing into mobile or desktop with whatever each platform calls for(I Love the ployglot programming)
 - 📫 How to reach me **rayleighko2@gmail.com · linkedin.com/in/rayleighko**
 - 📄 Résumé **[English résumé (PDF)](https://github.com/rayleighko/rayleighko/raw/main/resume.pdf)**
 - ⚡ Fun fact **I built and ran a company for 7 years before returning to engineering — and I'm a devoted cat person 🐈**
