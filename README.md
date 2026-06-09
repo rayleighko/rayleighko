@@ -9,9 +9,9 @@
 
 - 🔭 I'm currently working on **building and operating production-grade full-stack web apps — from React/Next.js interfaces to the cloud infrastructure behind them**
 - 🌱 I'm currently learning **system design & software architecture for larger-scale services**
-- 👯 I'm looking to collaborate on **open-source in real-time systems, developer tooling, and AI-native products**
-- 🤝 I'm looking to connect with **teams building global, large-scale products**
-- 💬 Ask me about **building & operating full-stack apps, the trade-offs that come after launch, and adapting across stacks (TypeScript, Rust, Java, C#)**
+- 🚀 I'm looking to join mission-driven teams or high-growth scale-ups (Series A and beyond) — from world-changing products to deep tech like space and defense
+- 🌍 I'm looking to help build global products at real scale
+- 🛠 At home in TypeScript on the web — and comfortable crossing into mobile or desktop with whatever each platform calls for
 - 📫 How to reach me **rayleighko2@gmail.com · linkedin.com/in/rayleighko**
 - 📄 Résumé **[English résumé (PDF)](https://github.com/rayleighko/rayleighko/raw/main/resume.pdf)**
 - ⚡ Fun fact **I built and ran a company for 7 years before returning to engineering — and I'm a devoted cat person 🐈**
