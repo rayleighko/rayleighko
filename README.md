@@ -22,8 +22,8 @@ const ray = {
   name: "MyungJin Ko (Ray)",
   role: "Software Engineer",
   edge: "builds and operates what I ship — adapts to any stack",
-  exFounder: true,            // 7 years, took products 0 → 1
   nowChasing: "system design × real-time depth",
+  exFounder: true,            // 7 years, took products 0 → 1
   catPerson: true,            // 🐈
   motto: "If things are not failing, you are not innovating enough.",
 };
