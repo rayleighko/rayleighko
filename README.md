@@ -12,7 +12,7 @@
 - 🌍 I'm looking to help build **global products at real scale**
 - 🛠 At home in **TypeScript on the web** — and comfortable crossing into mobile or desktop with whatever each platform calls for
 - 📫 How to reach me **rayleighko2@gmail.com · linkedin.com/in/rayleighko**
-- 📄 Résumé **[English résumé (PDF)](https://github.com/rayleighko/rayleighko/raw/main/resume.pdf)**
+- 📄 Résumé **[English résumé (PDF)](https://github.com/rayleighko/rayleighko/blob/main/resume.pdf)**
 - ⚡ Fun fact **I built and ran a company for 7 years before returning to engineering — and I'm a devoted cat person 🐈**
 - 📝 I write at **[ray-k.medium.com](https://ray-k.medium.com)**
 
