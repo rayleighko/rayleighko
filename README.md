@@ -1,3 +1,5 @@
+<!-- rayleighko/rayleighko 레포의 README.md 에 붙여넣기. header.svg 와 이력서 PDF를 같은 레포에 커밋하세요. -->
+
 <p align="center">
   <img src="./header.svg" alt="Ray (MyungJin Ko) — Software Engineer" width="100%">
 </p>
@@ -6,13 +8,12 @@
 
 ### Software engineer who builds and operates what I ship
 
-- 🔭 I'm currently working on **building and operating production-grade full-stack web apps — from React/Next.js interfaces to the cloud infrastructure behind them**
-- 🌱 I'm currently learning **system design & software architecture for larger-scale services**
-- 🚀 I'm looking to join **mission-driven teams or high-growth scale-ups (Series A and beyond) — from world-changing products to deep tech like space and defense**
-- 🌍 I'm looking to help build **global products at real scale**
-- 🛠 At home in **TypeScript on the web** — and comfortable crossing into mobile or desktop with whatever each platform calls for
+- 🔭 I **build and operate products end to end** — from the UI down to the infrastructure and the on-call that follows
+- 🌱 I'm going deeper on **system design & architecture that stays simple and reliable as it scales**
+- 🚀 I want to help build **ambitious global products where the engineering bar is high** — developer tools, AI, or deep tech — and own problems from zero to one (size and domain matter less than the team)
+- 🛠 I care less about any single stack than **picking the right tool for the problem** — shipped in TypeScript, Rust, Java, and C# as each called for it (polyglot by choice)
 - 📫 How to reach me **rayleighko2@gmail.com · linkedin.com/in/rayleighko**
-- 📄 Résumé **[English résumé (PDF)](https://github.com/rayleighko/rayleighko/blob/main/resume.pdf)**
+- 📄 Résumé **[English (PDF)](https://github.com/rayleighko/rayleighko/raw/main/resume.pdf)** · **[국문 (PDF)](https://github.com/rayleighko/rayleighko/raw/main/resume_ko.pdf)**
 - ⚡ Fun fact **I built and ran a company for 7 years before returning to engineering — and I'm a devoted cat person 🐈**
 - 📝 I write at **[ray-k.medium.com](https://ray-k.medium.com)**
 
@@ -22,7 +23,7 @@ const ray = {
   role: "Software Engineer",
   edge: "builds and operates what I ship — adapts to any stack",
   exFounder: true,            // 7 years, took products 0 → 1
-  nowChasing: "system design × real-time depth",
+  nowChasing: "system design × scale",
   catPerson: true,            // 🐈
   motto: "If things are not failing, you are not innovating enough.",
 };
