@@ -17,6 +17,11 @@
 - ⚡ Fun fact **I built and ran a company for 7 years before returning to engineering — and I'm a devoted cat person 🐈**
 - 📝 I write at **[ray-k.medium.com](https://ray-k.medium.com)**
 
+<h3 align="left">📝 Writing — production systems I built and operated:</h3>
+
+- **[When Serverless Stops Making Sense: Moving Bulk PDF Generation to a Rust Worker](https://ray-k.medium.com/when-serverless-stops-making-sense-moving-bulk-pdf-generation-to-a-rust-worker-1de5074ce036)** — why per-invocation Chromium broke down, the axum worker that replaced it, and a [reproduction benchmark](https://github.com/rayleighko/pdf-worker-benchmark) (3.2× on bulk exports)
+- **[The Event Is the Tenant: Multi-Tenancy for a Business Where Customers Are Projects, Not People](https://ray-k.medium.com/the-event-is-the-tenant-multi-tenancy-for-a-business-where-customers-are-projects-not-people-90a5763bf79f)** — identity, isolation, and billing scoped to events; ~$100/mo infra serving ₩5–10M-per-event contracts, and what I'd redesign
+
 ```typescript
 const ray = {
   name: "MyungJin Ko (Ray)",
