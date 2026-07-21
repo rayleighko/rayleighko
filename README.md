@@ -1,5 +1,3 @@
-<!-- rayleighko/rayleighko 레포의 README.md 에 붙여넣기. header.svg / tech_card.svg / 이력서 PDF를 같은 레포에 커밋하세요. -->
-
 <p align="center">
   <img src="./header.svg" alt="Ray (MyungJin Ko) — Software Engineer" width="100%">
 </p>
@@ -54,8 +52,3 @@ const ray = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rayleighko-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/rayleighko)
 [![Medium](https://img.shields.io/badge/Medium-@ray--k-000000?logo=medium&logoColor=white)](https://medium.com/@ray-k)
 [![LeetCode](https://img.shields.io/badge/LeetCode-rayleighko-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/rayleighko)
-
-<!-- 선택: GitFut 카드를 넣고 싶다면 아래 주석을 해제하세요.
-     재미 요소로는 좋지만, 채용 담당자에게 전달되는 신호는 위의 실적·글이 더 강합니다.
-[![GitFut](https://img.shields.io/badge/GitFut-86_TOTY_·_top_0.07%25-2b6cb0)](https://gitfut.com/rayleighko)
--->
