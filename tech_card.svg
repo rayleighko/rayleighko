@@ -22,13 +22,13 @@
     <text x="190" y="132" fill="#cfe0f0">TypeScript · React · Next.js · Tailwind</text>
 
     <text x="40"  y="176" fill="#56c6ff" font-weight="700">Backend</text>
-    <text x="190" y="176" fill="#cfe0f0">Node · NestJS · Rust</text>
+    <text x="190" y="176" fill="#cfe0f0">Node · NestJS</text>
 
     <text x="40"  y="220" fill="#56c6ff" font-weight="700">Data</text>
-    <text x="190" y="220" fill="#cfe0f0">PostgreSQL · Supabase · Elasticsearch</text>
+    <text x="190" y="220" fill="#cfe0f0">PostgreSQL · Supabase</text>
 
     <text x="40"  y="264" fill="#56c6ff" font-weight="700">Infra</text>
-    <text x="190" y="264" fill="#cfe0f0">AWS · Docker · Vercel · Fly.io</text>
+    <text x="190" y="264" fill="#cfe0f0">AWS · Docker · Vercel · Cloudflare</text>
   </g>
 
   <text x="844" y="180" fill="#1f6feb" font-size="80" font-weight="800" text-anchor="end" opacity="0.13">&lt;/&gt;</text>
