@@ -21,6 +21,7 @@ I co-founded a startup and spent 5 years as its founding engineer — taking a B
 
 ## 📝 Writing — production systems I built and operated
 
+- **[Self-Service Domains: Letting Customers Provision DNS Without Talking to Us](발행 URL)** — slug uniqueness in Postgres, a four-step Vercel domain pipeline, and the day-2 gaps that stayed manual
 - **[The 403 That Redesigned Our Auth: Three Login Systems, One Rust Middleware](https://ray-k.medium.com/the-403-that-redesigned-our-auth-three-login-systems-one-rust-middleware-2ba39ae935ee)** — how three identity classes accumulated, why a valid token still failed, and unifying enforcement without merging identity
 - **[1,000 on a Normal Day, 25,000 on Event Day: Capacity Planning When Your Spikes Are Scheduled](https://ray-k.medium.com/1-000-on-a-normal-day-25-000-on-event-day-capacity-planning-when-your-spikes-are-scheduled-0693a3681ab3)** — absorbing a 25× event-day spike with no autoscaler: caches, serverless bursts, and a capped worker, layer by layer
 - **[When Serverless Stops Making Sense: Moving Bulk PDF Generation to a Rust Worker](https://ray-k.medium.com/when-serverless-stops-making-sense-moving-bulk-pdf-generation-to-a-rust-worker-1de5074ce036)** — why per-invocation Chromium broke down, the axum worker that replaced it, and a [reproduction benchmark](https://github.com/rayleighko/pdf-worker-benchmark) (3.2× on bulk exports)
