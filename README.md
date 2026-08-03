@@ -18,6 +18,7 @@ I co-founded a startup and spent 5 years as its founding engineer — taking a B
 ## 🚧 Now building
 
 **[The Bearings](https://www.thebearings.app)** — which economic regime is your portfolio betting on? A regime read for what you already hold. Solo-built and operated: Next.js 16 · React 19 · Supabase (Postgres RLS) · Claude-powered briefings behind a 3-layer safety filter · PWA on Vercel. Docs-first engineering with architecture decision records.
+
 **[Breaking Point](https://rayleighko.github.io/breaking-point)** — an interactive software engineering lab for breaking browser-based simulations, reasoning about system limits, and defending architecture decisions with evidence in the AI era.
 ## 📝 Writing — production systems I built and operated
 
