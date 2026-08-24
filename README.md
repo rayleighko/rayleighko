@@ -15,21 +15,6 @@ I co-founded a startup and spent 5 years as its founding engineer — taking a B
 - 📄 Résumé — **[English (PDF)](https://github.com/rayleighko/rayleighko/raw/main/resume.pdf)** · **[국문 (PDF)](https://github.com/rayleighko/rayleighko/raw/main/resume_ko.pdf)**
 - ⚡ Fun fact — I built and ran a company for 7 years before returning to full-time engineering, and I'm a devoted cat person 🐈
 
-## 🚧 Now building
-
-**[The Bearings](https://www.thebearings.app)** — which economic regime is your portfolio betting on? A regime read for what you already hold. Solo-built and operated: Next.js 16 · React 19 · Supabase (Postgres RLS) · Claude-powered briefings behind a 3-layer safety filter · PWA on Vercel. Docs-first engineering with architecture decision records.
-
-**[Breaking Point](https://rayleighko.github.io/breaking-point)** — an interactive software engineering lab for breaking browser-based simulations, reasoning about system limits, and defending architecture decisions with evidence in the AI era.
-## 📝 Writing — production systems I built and operated
-
-- **[Self-Service Domains: Letting Customers Provision DNS Without Talking to Us](https://medium.com/@ray-k/self-service-domains-letting-customers-provision-dns-without-talking-to-us-1a7bfc68cc4b?sharedUserId=ray-k)** — slug uniqueness in Postgres, a four-step Vercel domain pipeline, and the day-2 gaps that stayed manual
-- **[The 403 That Redesigned Our Auth: Three Login Systems, One Rust Middleware](https://ray-k.medium.com/the-403-that-redesigned-our-auth-three-login-systems-one-rust-middleware-2ba39ae935ee)** — how three identity classes accumulated, why a valid token still failed, and unifying enforcement without merging identity
-- **[1,000 on a Normal Day, 25,000 on Event Day: Capacity Planning When Your Spikes Are Scheduled](https://ray-k.medium.com/1-000-on-a-normal-day-25-000-on-event-day-capacity-planning-when-your-spikes-are-scheduled-0693a3681ab3)** — absorbing a 25× event-day spike with no autoscaler: caches, serverless bursts, and a capped worker, layer by layer
-- **[When Serverless Stops Making Sense: Moving Bulk PDF Generation to a Rust Worker](https://ray-k.medium.com/when-serverless-stops-making-sense-moving-bulk-pdf-generation-to-a-rust-worker-1de5074ce036)** — why per-invocation Chromium broke down, the axum worker that replaced it, and a [reproduction benchmark](https://github.com/rayleighko/pdf-worker-benchmark) (3.2× on bulk exports)
-- **[The Event Is the Tenant: Multi-Tenancy for a Business Where Customers Are Projects, Not People](https://ray-k.medium.com/the-event-is-the-tenant-multi-tenancy-for-a-business-where-customers-are-projects-not-people-90a5763bf79f)** — identity, isolation, and billing scoped to events; ~$100/mo infra serving ₩5–10M-per-event contracts, and what I'd redesign
-
-More at [ray-k.medium.com](https://ray-k.medium.com)
-
 ```typescript
 const ray = {
   name: "MyungJin Ko (Ray)",
