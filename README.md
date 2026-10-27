@@ -10,5 +10,5 @@ Now focused on **AI transformation (AX)** and **payments** (PG, escrow, prepaid)
 
 **Stack** · TypeScript · Rust · Java/Spring · Kotlin · PostgreSQL · Cloudflare
 
-📄 Résumé — [English](https://github.com/rayleighko/rayleighko/raw/main/resume.pdf) · [국문](https://github.com/rayleighko/rayleighko/raw/main/resume_ko.pdf)
+📄 Résumé — [English](https://github.com/rayleighko/rayleighko/raw/main/resume.pdf)
 📫 rayleighko2@gmail.com · [LinkedIn](https://linkedin.com/in/rayleighko) · [Medium](https://medium.com/@ray-k)
