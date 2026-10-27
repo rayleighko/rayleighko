@@ -9,6 +9,8 @@ Currently: AI transformation (AX) at a payments company.
 - Ran development AI-native for 2 years — **300–400 PRs per week**
 - **80–120 government events**, zero event-day failures, peaks of **~25K concurrent users**
 
+🥚 Side quest — making [**Hatchbar**](https://store.steampowered.com/app/5384580/), a tiny idle game that lives under your taskbar. Launching Nov 9 on Steam.
+
 **Stack** · TypeScript · Rust · Java/Spring · Kotlin · PostgreSQL · Cloudflare
 
 📫 rayleighko2@gmail.com · [LinkedIn](https://linkedin.com/in/rayleighko) · [Medium](https://medium.com/@ray-k)
