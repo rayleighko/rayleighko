@@ -1,7 +1,8 @@
 # Ray (MyungJin Ko)
 
-Engineer building products with AI agents — and making it how teams work.
-Now focused on **AI transformation (AX)** and **payments** (PG, escrow, prepaid).
+Engineer who solves business problems end to end — whatever the domain.
+I build with AI agents and make it how teams work.
+Currently: AI transformation (AX) at a payments company.
 
 - Co-founded and ran a B2B company for 5 years on revenue alone
 - Built a multi-tenant SaaS from zero to **20+ customers** with a team of three
