@@ -11,5 +11,4 @@ Currently: AI transformation (AX) at a payments company.
 
 **Stack** · TypeScript · Rust · Java/Spring · Kotlin · PostgreSQL · Cloudflare
 
-📄 Résumé — [English](https://github.com/rayleighko/rayleighko/raw/main/resume.pdf)
 📫 rayleighko2@gmail.com · [LinkedIn](https://linkedin.com/in/rayleighko) · [Medium](https://medium.com/@ray-k)
