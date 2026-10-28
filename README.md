@@ -4,10 +4,10 @@ Engineer who solves business problems end to end — whatever the domain.
 I build with AI agents and make it how teams work.
 Currently: AI transformation (AX) at a payments company.
 
-- Co-founded and ran a B2B company for 5 years on revenue alone
-- Built a multi-tenant SaaS from zero to **20+ customers** with a team of three
+- Co-founded and ran a bootstrapped B2B company for 5 years on revenue alone
+- Took a SaaS from zero to **20+ clients** and **100K+ event attendees** — with a team of three, infra under 1% of revenue
 - Ran development AI-native for 2 years — **300–400 PRs per week**
-- **80–120 government events**, zero event-day failures, peaks of **~25K concurrent users**
+- **100+ government events**, zero failures — handling **25K concurrent users** packed into a single venue on congested networks
 
 🥚 Side quest — making [**Hatchbar**](https://store.steampowered.com/app/5384580/), a tiny idle game that lives under your taskbar. Launching Nov 9 on Steam.
 
