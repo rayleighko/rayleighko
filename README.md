@@ -1,7 +1,7 @@
 # Ray (MyungJin Ko)
 
 Engineer who solves business problems end to end — whatever the domain.
-I build with AI agents and make it how teams work.
+I practice agentic engineering: AI agents implement, I own the design, review, and what ships.
 Currently: AI transformation (AX) at a payments company.
 
 - Co-founded and ran a bootstrapped B2B company for 5 years on revenue alone
